@@ -14,7 +14,7 @@ It helps farmers track animals in real-time and get **health alerts** (fever, ab
 - Raspberry Pi gateway with CSV logging  
 - Real-time alerts for abnormal health or lost animals  
 
----
+-----
 
 ## 🛠 Hardware
 - **ESP32** (MicroPython)  
